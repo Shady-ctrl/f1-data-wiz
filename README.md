@@ -9,6 +9,3 @@ This repository contains code for analyzing and visualizing **Formula 1** data u
 
 ---
 
-### 📡 **Real-Time Context**  
-I've posted real-time analysis and insights from this data on my socials. Check out the link below to explore more!  
-🔗 [Click Here for Real-Time F1 Analysis](https://x.com/adarsh82_/status/1742187445092007954)
